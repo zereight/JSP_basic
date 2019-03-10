@@ -14,3 +14,10 @@ a:hover {
     border: none;
     color: white;
 }
+
+body{
+    
+    min-width: 900px;
+    max-width: 2000px;
+    
+}
