@@ -1,0 +1,16 @@
+a, button {
+    text-decoration: none;
+    outline: none;
+    border: none;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    outline: none;
+    border: none;
+    color: white;
+}
